@@ -6,5 +6,5 @@ A collection of algorithms for number theory including
 - Prime Factorization
 - Extended Euclidean algorithm
 
-This program is now completely available in German and in Englisch,
+This program is now completely available in German and in English,
 the language is depended of your UI-Culture.
